@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pokemonapp">
+
+    <application
+        android:name="dagger.hilt.android.testing.HiltTestApplication"
+        android:allowBackup="false" />
+
+    <instrumentation
+        android:name="androidx.test.runner.AndroidJUnitRunner"
+        android:targetPackage="com.example.pokemonapp>
+</manifest>
