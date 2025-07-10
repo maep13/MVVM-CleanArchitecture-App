@@ -1,7 +1,7 @@
 **Pokémon App con Clean Architecture y MVVM**  
 
 **Descripción**  
-Esta aplicación permite consultar información detallada de los Pokémon utilizando **PokeAPI**. 
+Esta aplicación permite consultar información detallada de una base de datos de Pokémon utilizando **PokeAPI**. 
 Implementa las mejores prácticas de **Clean Architecture**, **JetPack Compose** y el patrón **MVVM** 
 para garantizar una estructura modular y escalable.
 
